@@ -1,14 +1,14 @@
 // TODO: replace with a proper database
 var clientsData = [
-	//{
-	//	"name": "Фирма АДИС, ООО",
-	//  	"region": "RU-IRK",
-	//  	"code": "ADIS",
-	// 	"area": 31592,
-	//  	"type": "FSC",
-	//  	"number": "GFA-FM/COC-002641-ADIS",
-	//  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/ADIS.kml"
-	//},
+	{
+		"name": "Фирма АДИС, ООО",
+	  	"region": "RU-IRK",
+	  	"code": "ADIS",
+	 	"area": 31592,
+	  	"type": "FSC",
+	  	"number": "GFA-FM/COC-002641-ADIS",
+	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/ADIS.kml"
+	},
 	{
 		"name": "Автодорлес, ООО",
 	  	"region": "RU-VLG",
