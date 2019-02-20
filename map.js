@@ -1,6 +1,5 @@
 // TODO: replace with a proper database
-var clientsData = [
-	{
+var clientsData = [{
 		"name": "Фирма АДИС, ООО",
 	  	"region": "RU-IRK",
 	  	"code": "ADIS",
@@ -8,8 +7,7 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-ADIS",
 	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/ADIS.kml"
-	},
-	{
+	}, {
 		"name": "Автодорлес, ООО",
 	  	"region": "RU-VLG",
 	  	"code": "AVTO",
@@ -49,17 +47,15 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/DUNI.kml"
-	},
-	//{
-	//	"name": "Леском, ООО",
-	//  	"region": "RU-IRK",
-	//  	"code": "LESK",
-	// 	"area": 34765,
-	//  	"type": "FSC",
-	//  	"number": "GFA-FM/COC-002641-LESK",
-	//  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/LESK.kml"
-	//},
-	{
+	}, {
+		"name": "Леском, ООО",
+	  	"region": "RU-IRK",
+	  	"code": "LESK",
+	 	"area": 34765,
+	  	"type": "FSC",
+	  	"number": "GFA-FM/COC-002641-LESK",
+	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/LESK.kml"
+	}, {
 		"name": "Лесной Мир, ООО",
 	  	"region": "RU-KOS",
 	  	"code": "LSMR",
@@ -123,17 +119,15 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-TAIG",
 	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/TAIG.kml"
-	},
-	//{
-	//	"name": "Тарнога-Лес, OOO",
-	//  	"region": "RU-VLG",
-	//  	"code": "TRNG",
-	// 	"area": 40932,
-	//  	"type": "FSC",
-	//  	"number": "GFA-FM/COC-002641-TRNG",
-	//  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/TRNG.kml"
-	//},
-	{
+	}, {
+		"name": "Тарнога-Лес, OOO",
+	  	"region": "RU-VLG",
+	  	"code": "TRNG",
+	 	"area": 40932,
+	  	"type": "FSC",
+	  	"number": "GFA-FM/COC-002641-TRNG",
+	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/TRNG.kml"
+	}, {
 		"name": "Узола, ООО",
 	  	"region": "RU-NIZ",
 	  	"code": "UZLA",
