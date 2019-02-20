@@ -1,20 +1,21 @@
 // TODO: replace with a proper database
-var clientsData = [{
-		"name": "Фирма АДИС, ООО",
-	  	"region": "RU-IRK",
-	  	"code": "ADIS",
-	 	"area": 31592,
-	  	"type": "FSC",
-	  	"number": "GFA-FM/COC-002641-ADIS",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/ADIS.kml"
-	}, {
+var clientsData = [
+	{
+	// 	"name": "Фирма АДИС, ООО",
+	//   	"region": "RU-IRK",
+	//   	"code": "ADIS",
+	//  	"area": 31592,
+	//   	"type": "FSC",
+	//   	"number": "GFA-FM/COC-002641-ADIS",
+	//   	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/ADIS.kml"
+	// }, {
 		"name": "Автодорлес, ООО",
 	  	"region": "RU-VLG",
 	  	"code": "AVTO",
 	 	"area": 35183,
 	 	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-AVTO",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/AVTO.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/AVTO.kml"
 	}, {
 		"name": "Череповецкий фанерно мебельный комбинат, АО",
 	  	"region": "RU-VLG",
@@ -22,7 +23,7 @@ var clientsData = [{
 	 	"area": 49093,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-CFMK",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/CFMK.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/CFMK.kml"
 	}, {
 		"name": "Дом-Строй, ООО",
 	  	"region": "RU-KOS",
@@ -30,7 +31,7 @@ var clientsData = [{
 	 	"area": 15424,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-DOMS",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/DOMS.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/DOMS.kml"
 	}, {
 		"name": "Дукан, OOO",
 	  	"region": "RU-KOS",
@@ -38,7 +39,7 @@ var clientsData = [{
 	 	"area": 19757,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-DUKN",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/DUKN.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/DUKN.kml"
 	}, {
 		"name": "Дуниловское, ООО",
 	  	"region": "RU-KOS",
@@ -46,23 +47,23 @@ var clientsData = [{
 	 	"area": 10004,
 	  	"type": "FSC",
 	  	"number": "",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/DUNI.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/DUNI.kml"
 	}, {
-		"name": "Леском, ООО",
-	  	"region": "RU-IRK",
-	  	"code": "LESK",
-	 	"area": 34765,
-	  	"type": "FSC",
-	  	"number": "GFA-FM/COC-002641-LESK",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/LESK.kml"
-	}, {
+	// 	"name": "Леском, ООО",
+	//   	"region": "RU-IRK",
+	//   	"code": "LESK",
+	//  	"area": 34765,
+	//   	"type": "FSC",
+	//   	"number": "GFA-FM/COC-002641-LESK",
+	//   	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/LESK.kml"
+	// }, {
 		"name": "Лесной Мир, ООО",
 	  	"region": "RU-KOS",
 	  	"code": "LSMR",
 	 	"area": 5803,
 	  	"type": "FSC",
 	  	"number": "",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/LSMR.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/LSMR.kml"
 	}, {
 		"name": "Лесные ресурсы, ООО",
 	  	"region": "RU-KOS",
@@ -70,7 +71,7 @@ var clientsData = [{
 	 	"area": 53597,
 	  	"type": "FSC",
 	  	"number": "",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/LSRE.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/LSRE.kml"
 	}, {
 		"name": "ИП Кузнецов Н.Н.",
 	  	"region": "RU-VLA",
@@ -78,7 +79,7 @@ var clientsData = [{
 	 	"area": 1250,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-KUZN",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/KUZN.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/KUZN.kml"
 	}, {
 		"name": "Никольский ДОК, OOO",
 	  	"region": "RU-VLG",
@@ -86,7 +87,7 @@ var clientsData = [{
 	 	"area": 13903,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-NDOK",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/NDOK.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/NDOK.kml"
 	}, {
 		"name": "Руслес 44, ООО",
 	  	"region": "RU-KOS",
@@ -94,7 +95,7 @@ var clientsData = [{
 	 	"area": 18460,
 	 	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-RUSL",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/RUSL.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/RUSL.kml"
 	}, {
 		"name": "ИП Щербаков А.А.",
 	  	"region": "RU-MO",
@@ -102,7 +103,7 @@ var clientsData = [{
 	 	"area": 13997,
 	 	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-SHER",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/SHER.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SHER.kml"
 	}, {
 		"name": "Шанс, ООО",
 	  	"region": "RU-KOS",
@@ -110,7 +111,7 @@ var clientsData = [{
 	 	"area": 46632,
 	  	"type": "FSC",
 	  	"number": "",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/SHNS.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SHNS.kml"
 	}, {
 		"name": "Тайга, OOO",
 	  	"region": "RU-VLG",
@@ -118,23 +119,23 @@ var clientsData = [{
 	 	"area": 12914,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-TAIG",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/TAIG.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/TAIG.kml"
 	}, {
-		"name": "Тарнога-Лес, OOO",
-	  	"region": "RU-VLG",
-	  	"code": "TRNG",
-	 	"area": 40932,
-	  	"type": "FSC",
-	  	"number": "GFA-FM/COC-002641-TRNG",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/TRNG.kml"
-	}, {
+	// 	"name": "Тарнога-Лес, OOO",
+	//   	"region": "RU-VLG",
+	//   	"code": "TRNG",
+	//  	"area": 40932,
+	//   	"type": "FSC",
+	//   	"number": "GFA-FM/COC-002641-TRNG",
+	//   	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/TRNG.kml"
+	// }, {
 		"name": "Узола, ООО",
 	  	"region": "RU-NIZ",
 	  	"code": "UZLA",
 	 	"area": 22668,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-UZLA",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/UZLA.kml"
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/UZLA.kml"
 	}, {
 		"name": "ВетлугаЛесСервис, ООО",
 	  	"region": "RU-NIZ",
@@ -142,8 +143,9 @@ var clientsData = [{
 	 	"area": 14366,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-VTLG",
-	  	"kmlLink": "https://raw.githubusercontent.com/agamirzov/yandex-regions/master/data/VTLG.kml"
-}];
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/VTLG.kml"
+	}
+];
 
 // Constants
 let green = "#20AA4A";
