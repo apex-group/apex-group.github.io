@@ -73,14 +73,14 @@ var clientsData = [
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/LSRE.kml"
 	}, {
-		"name": "ИП Кузнецов Н.Н.",
-	  	"region": "RU-VLA",
-	  	"code": "KUZN",
-	 	"area": 1250,
-	  	"type": "FSC",
-	  	"number": "GFA-FM/COC-002641-KUZN",
-	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/KUZN.kml"
-	}, {
+// 		"name": "ИП Кузнецов Н.Н.",
+// 	  	"region": "RU-VLA",
+// 	  	"code": "KUZN",
+// 	 	"area": 1250,
+// 	  	"type": "FSC",
+// 	  	"number": "GFA-FM/COC-002641-KUZN",
+// 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/KUZN.kml"
+// 	}, {
 		"name": "Никольский ДОК, OOO",
 	  	"region": "RU-VLG",
 	  	"code": "NDOK",
