@@ -147,7 +147,7 @@ var clientsData = [
 	}, {
 		"name": "Шервуд, ООО",
 	  	"region": "RU-NIZ",
-	  	"code": "",
+	  	"code": "SHWD",
 	 	"area": 47027,
 	  	"type": "FSC",
 	  	"number": "",
