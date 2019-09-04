@@ -110,7 +110,7 @@ var clientsData = [
 	  	"code": "SHNS",
 	 	"area": 46632,
 	  	"type": "FSC",
-	  	"number": "",
+	  	"number": "GFA-FM/COC-002641-SHNS",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SHNS.kml"
 	}, {
 		"name": "Тайга, OOO",
@@ -144,6 +144,14 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-VTLG",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/VTLG.kml"
+	}, {
+		"name": "Шервуд, ООО",
+	  	"region": "RU-NIZ",
+	  	"code": "",
+	 	"area": 47027,
+	  	"type": "FSC",
+	  	"number": "",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SHWD.kml"
 	}
 ];
 
