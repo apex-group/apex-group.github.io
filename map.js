@@ -152,6 +152,14 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SHWD.kml"
+	}, {
+		"name": "Бизнес-Лес, ООО",
+	  	"region": "RU-BRY",
+	  	"code": "BIZN",
+	 	"area": 16879,
+	  	"type": "FSC",
+	  	"number": "GFA-FM/COC-002641-BIZN",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BIZN.kml"
 	}
 ];
 
