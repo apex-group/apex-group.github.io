@@ -156,10 +156,18 @@ var clientsData = [
 		"name": "Бизнес-Лес, ООО",
 	  	"region": "RU-BRY",
 	  	"code": "BIZN",
-	 	"area": 16879,
+	 	  "area": 16879,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-BIZN",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BIZN.kml"
+	}, {
+		"name": "CтройБизнесГрупп, ООО",
+	  	"region": "RU-KOS",
+	  	"code": "SBGR",
+	 	  "area": 166017,
+	  	"type": "FSC",
+	  	"number": "",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SBGR.kml"
 	}
 ];
 
