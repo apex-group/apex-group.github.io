@@ -9,7 +9,6 @@
 </Schema>
 <Folder><name>BIZN_Ya</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#BIZN_Ya">
 		<SimpleData name="Reg">Брянская область</SimpleData>
 		<SimpleData name="Lesn">Жуковское</SimpleData>

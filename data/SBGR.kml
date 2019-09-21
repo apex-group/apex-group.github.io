@@ -8,7 +8,6 @@
 </Schema>
 <Folder><name>SBGR_Ya</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SBGR_Ya">
 		<SimpleData name="KVART_ID">82</SimpleData>
 		<SimpleData name="LESNICH">Парфеньевское</SimpleData>
