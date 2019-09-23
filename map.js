@@ -168,6 +168,14 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SBGR.kml"
+	}, {
+		"name": "Маркет, ООО",
+	  	"region": "RU-SMO",
+	  	"code": "MRKT",
+	 	  "area": 9159,
+	  	"type": "FSC",
+	  	"number": "",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/MRKT.kml"
 	}
 ];
 
