@@ -176,12 +176,21 @@ var clientsData = [
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/MRKT.kml"
+	}, {
+		"name": "Еврофанера, ООО",
+	  	"region": "RU-SMO",
+	  	"code": "EUFA",
+	 	  "area": 10969,
+	  	"type": "PEFC",
+	  	"number": "GFA-FM/COC-500421-EUFA",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/EUFA.kml"
 	}
 ];
 
 // Constants
-let green = "#20AA4A";
-let orange = "#FFA500";
+let green = "#20AA4A"
+let magneta = "#6CB61C"
+let orange = "#FFA500"
 let lightGray = "#BBBBBB"
 let darkGray = "#555555"
 let expandZoom = 6;
@@ -312,6 +321,8 @@ function getOriginalColor(client = undefined) {
 		return orange;
 	} else if (client.options.get('clientType') === "FSC") {
 		return green;
+	} else if (client.options.get('clientType') === "PEFC") {
+		return magneta;
 	}
 }
 
