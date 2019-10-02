@@ -184,6 +184,14 @@ var clientsData = [
 	  	"type": "PEFC",
 	  	"number": "GFA-FM/COC-500421-EUFA",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/EUFA.kml"
+	}, {
+		"name": "ИП Романов Ю.М.",
+	  	"region": "RU-SMO",
+	  	"code": "IROM",
+	 	  "area": 13100,
+	  	"type": "PEFC",
+	  	"number": "",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/IROM.kml"
 	}
 ];
 
