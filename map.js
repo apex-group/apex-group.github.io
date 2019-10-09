@@ -192,6 +192,14 @@ var clientsData = [
 	  	"type": "PEFC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/IROM.kml"
+	} , {
+		"name": "ИП Васильков В.А.",
+	  	"region": "RU-SMO",
+	  	"code": "VSLK",
+	 	  "area": 5803,
+	  	"type": "PEFC",
+	  	"number": "GFA-FM/COC-500421-VSLK",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/VSLK.kml"
 	}
 ];
 
@@ -200,6 +208,7 @@ let green = "#20AA4A"
 let magneta = "#6CB61C"
 let orange = "#FFA500"
 let lightGray = "#BBBBBB"
+
 let darkGray = "#555555"
 let expandZoom = 6;
 let minZoom = 3;
