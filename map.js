@@ -62,7 +62,7 @@ var clientsData = [
 	  	"code": "LSMR",
 	 	"area": 5803,
 	  	"type": "FSC",
-	  	"number": "",
+	  	"number": "GFA-FM/COC-002641-LSMR",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/LSMR.kml"
 	}, {
 		"name": "Лесные ресурсы, ООО",
@@ -70,7 +70,7 @@ var clientsData = [
 	  	"code": "LSRE",
 	 	"area": 53597,
 	  	"type": "FSC",
-	  	"number": "",
+	  	"number": "GFA-FM/COC-002641-LSRE",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/LSRE.kml"
 	}, {
 // 		"name": "ИП Кузнецов Н.Н.",
