@@ -478,7 +478,7 @@ function registerClientsEvents() {
 		let clickedClient = event.get('target').getParent();
 		if (!clickedClient.isSelected()) {
 			selectClient(false);
-			map.setBounds(clickedClient.getBounds());
+			// map.setBounds(clickedClient.getBounds());
 		}
 
 		// Update selected client and flip state
