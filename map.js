@@ -221,8 +221,8 @@ var clientsData = [
 	  	"region": "RU-SMO",
 	  	"code": "GRND",
 	 	 "area": 21765,
-	  	"type": "FSC",
-	  	"number": "GFA-FM/COC-500421-GRND",
+	  	"type": "FSC / PEFC",
+	  	"number": "GFA-FM/COC-002641-GRND",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/GRND.kml"
 	}
 ];
@@ -230,6 +230,7 @@ var clientsData = [
 // Constants
 let green = "#20AA4A"
 let magneta = "#6CB61C"
+let darkGreen = "#1E8449"
 let orange = "#FFA500"
 let lightGray = "#BBBBBB"
 
@@ -364,6 +365,8 @@ function getOriginalColor(client = undefined) {
 		return green;
 	} else if (client.options.get('clientType') === "PEFC") {
 		return magneta;
+	} else if (client.options.get('clientType') === "FSC / PEFC") {
+		return darkGreen;
 	}
 }
 
