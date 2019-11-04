@@ -222,7 +222,7 @@ var clientsData = [
 	  	"code": "GRND",
 	 	 "area": 21765,
 	  	"type": "FSC / PEFC",
-	  	"number": "GFA-FM/COC-002641-GRND",
+	  	"number": "FSC GFA-FM/COC-002641-GRND / PEFC GFA-FM/COC-500421-GRND",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/GRND.kml"
 	}
 ];
