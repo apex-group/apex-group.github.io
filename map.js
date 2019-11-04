@@ -399,7 +399,11 @@ function updateText(client = undefined) {
 	document.getElementById("info").style.boxShadow = "5px -10px 50px " + selectionColor;
 	let number = client.options.get('clientNumber');
 	let clientNumber = (number == "" ? "В процессе подготовки" : number);
-	document.getElementById("type").innerHTML   = "Сертификат: " + client.options.get('clientType') + " " + clientNumber;
+	if (client.options.get('clientType') === "FSC / PEFC") {
+		document.getElementById("type").innerHTML   = "Сертификат: " + clientNumber;
+	} else {
+		document.getElementById("type").innerHTML   = "Сертификат: " + client.options.get('clientType') + " " + clientNumber;
+	}
 }
 
 function showBaloon(flag) {
