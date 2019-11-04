@@ -156,7 +156,7 @@ var clientsData = [
 		"name": "Бизнес-Лес, ООО",
 	  	"region": "RU-BRY",
 	  	"code": "BIZN",
-	 	  "area": 16879,
+	 	 "area": 16879,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-BIZN",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BIZN.kml"
@@ -164,7 +164,7 @@ var clientsData = [
 		"name": "CтройБизнесГрупп, ООО",
 	  	"region": "RU-KOS",
 	  	"code": "SBGR",
-	 	  "area": 166017,
+	 	 "area": 166017,
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SBGR.kml"
@@ -172,7 +172,7 @@ var clientsData = [
 		"name": "Маркет, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "MRKT",
-	 	  "area": 9159,
+	 	 "area": 9159,
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/MRKT.kml"
@@ -180,7 +180,7 @@ var clientsData = [
 		"name": "Еврофанера, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "EUFA",
-	 	  "area": 10969,
+	 	 "area": 10969,
 	  	"type": "PEFC",
 	  	"number": "GFA-FM/COC-500421-EUFA",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/EUFA.kml"
@@ -188,7 +188,7 @@ var clientsData = [
 		"name": "ИП Романов Ю.М.",
 	  	"region": "RU-SMO",
 	  	"code": "IROM",
-	 	  "area": 13100,
+	 	 "area": 13100,
 	  	"type": "PEFC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/IROM.kml"
@@ -196,10 +196,34 @@ var clientsData = [
 		"name": "ИП Васильков В.А.",
 	  	"region": "RU-SMO",
 	  	"code": "VSLK",
-	 	  "area": 5803,
+	 	 "area": 5803,
 	  	"type": "PEFC",
 	  	"number": "GFA-FM/COC-500421-VSLK",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/VSLK.kml"
+	} , {
+		"name": "ИП Боровков П.И.",
+	  	"region": "RU-SMO",
+	  	"code": "BRVK",
+	 	  "area": 6718,
+	  	"type": "PEFC",
+	  	"number": "GFA-FM/COC-500421-BRVK",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BRVK.kml"
+	} , {
+		"name": "СП Бетула, ООО",
+	  	"region": "RU-SMO",
+	  	"code": "BETU",
+	 	 "area": 7656,
+	  	"type": "PEFC",
+	  	"number": "",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BETU.kml"
+	} , {
+		"name": "Гранд, ООО",
+	  	"region": "RU-SMO",
+	  	"code": "GRND",
+	 	 "area": 21765,
+	  	"type": "FSC",
+	  	"number": "GFA-FM/COC-500421-GRND",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/GRND.kml"
 	}
 ];
 
