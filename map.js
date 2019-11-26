@@ -224,7 +224,23 @@ var clientsData = [
 	  	"type": "FSC / PEFC",
 	  	"number": "FSC GFA-FM/COC-002641-GRND / PEFC GFA-FM/COC-500421-GRND",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/GRND.kml"
-	}
+	} , {
+		"name": "Румб, ООО",
+	  	"region": "RU-SMO",
+	  	"code": "RUMB",
+	 	 "area": 4937,
+	  	"type": "PEFC",
+	  	"number": "PEFC GFA-FM/COC-500421-RUMB",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/RUMB.kml"
+		} , {
+			"name": "ИП Цыганов С.М.",
+		  	"region": "RU-SMO",
+		  	"code": "CGNV",
+		 	 "area": 8078,
+		  	"type": "PEFC",
+		  	"number": "PEFC GFA-FM/COC-500421-CGNV",
+		  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/CGNV.kml"
+		}
 ];
 
 // Constants
