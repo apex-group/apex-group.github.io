@@ -232,15 +232,23 @@ var clientsData = [
 	  	"type": "PEFC",
 	  	"number": "PEFC GFA-FM/COC-500421-RUMB",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/RUMB.kml"
-		} , {
-			"name": "ИП Цыганов С.М.",
-		  	"region": "RU-SMO",
-		  	"code": "CGNV",
-		 	 "area": 8078,
-		  	"type": "PEFC",
-		  	"number": "PEFC GFA-FM/COC-500421-CGNV",
-		  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/CGNV.kml"
-		}
+	} , {
+		"name": "ИП Цыганов С.М.",
+	  	"region": "RU-SMO",
+	  	"code": "CGNV",
+	 	 "area": 8078,
+	  	"type": "PEFC",
+	  	"number": "PEFC GFA-FM/COC-500421-CGNV",
+	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/CGNV.kml"
+	} , {
+		"name": "Техноплюс, ООО",
+			"region": "RU-KLU",
+			"code": "TNPL",
+		 "area": 47678,
+			"type": "PEFC",
+			"number": "PEFC GFA-FM/COC-500421-TNPL",
+			"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/TNPL.kml"
+	}
 ];
 
 // Constants
