@@ -156,7 +156,7 @@ var clientsData = [
 		"name": "Бизнес-Лес, ООО",
 	  	"region": "RU-BRY",
 	  	"code": "BIZN",
-	 	 "area": 16879,
+	 	"area": 16879,
 	  	"type": "FSC",
 	  	"number": "GFA-FM/COC-002641-BIZN",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BIZN.kml"
@@ -164,7 +164,7 @@ var clientsData = [
 		"name": "CтройБизнесГрупп, ООО",
 	  	"region": "RU-KOS",
 	  	"code": "SBGR",
-	 	 "area": 166017,
+	 	"area": 166017,
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/SBGR.kml"
@@ -172,7 +172,7 @@ var clientsData = [
 		"name": "Маркет, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "MRKT",
-	 	 "area": 9159,
+	 	"area": 9159,
 	  	"type": "FSC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/MRKT.kml"
@@ -180,7 +180,7 @@ var clientsData = [
 		"name": "Еврофанера, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "EUFA",
-	 	 "area": 10969,
+	 	"area": 10969,
 	  	"type": "PEFC",
 	  	"number": "GFA-FM/COC-500421-EUFA",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/EUFA.kml"
@@ -188,7 +188,7 @@ var clientsData = [
 		"name": "ИП Романов Ю.М.",
 	  	"region": "RU-SMO",
 	  	"code": "IROM",
-	 	 "area": 13100,
+	 	"area": 13100,
 	  	"type": "PEFC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/IROM.kml"
@@ -196,7 +196,7 @@ var clientsData = [
 		"name": "ИП Васильков В.А.",
 	  	"region": "RU-SMO",
 	  	"code": "VSLK",
-	 	 "area": 5803,
+	 	"area": 5803,
 	  	"type": "PEFC",
 	  	"number": "GFA-FM/COC-500421-VSLK",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/VSLK.kml"
@@ -204,7 +204,7 @@ var clientsData = [
 		"name": "ИП Боровков П.И.",
 	  	"region": "RU-SMO",
 	  	"code": "BRVK",
-	 	  "area": 6718,
+	 	 "area": 6718,
 	  	"type": "PEFC",
 	  	"number": "GFA-FM/COC-500421-BRVK",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BRVK.kml"
@@ -212,7 +212,7 @@ var clientsData = [
 		"name": "СП Бетула, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "BETU",
-	 	 "area": 7656,
+	 	"area": 7656,
 	  	"type": "PEFC",
 	  	"number": "",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/BETU.kml"
@@ -220,7 +220,7 @@ var clientsData = [
 		"name": "Гранд, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "GRND",
-	 	 "area": 21765,
+	 	"area": 21765,
 	  	"type": "FSC / PEFC",
 	  	"number": "FSC GFA-FM/COC-002641-GRND / PEFC GFA-FM/COC-500421-GRND",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/GRND.kml"
@@ -228,7 +228,7 @@ var clientsData = [
 		"name": "Румб, ООО",
 	  	"region": "RU-SMO",
 	  	"code": "RUMB",
-	 	 "area": 4937,
+	 	"area": 4937,
 	  	"type": "PEFC",
 	  	"number": "PEFC GFA-FM/COC-500421-RUMB",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/RUMB.kml"
@@ -236,18 +236,42 @@ var clientsData = [
 		"name": "ИП Цыганов С.М.",
 	  	"region": "RU-SMO",
 	  	"code": "CGNV",
-	 	 "area": 8078,
-	  	"type": "PEFC",
-	  	"number": "PEFC GFA-FM/COC-500421-CGNV",
+	 	"area": 8078,
+	  	"type": "FSC / PEFC",
+	  	"number": "FSC GFA-FM/COC-500421-CGNV / PEFC GFA-FM/COC-500421-CGNV",
 	  	"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/CGNV.kml"
 	} , {
 		"name": "Техноплюс, ООО",
-			"region": "RU-KLU",
-			"code": "TNPL",
-		 "area": 47678,
-			"type": "PEFC",
-			"number": "PEFC GFA-FM/COC-500421-TNPL",
-			"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/TNPL.kml"
+		"region": "RU-KLU",
+		"code": "TNPL",
+		"area": 47678,
+		"type": "PEFC",
+		"number": "PEFC GFA-FM/COC-500421-TNPL",
+		"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/TNPL.kml"
+	} , {
+		"name": "СПК Угранский, ООО",
+		"region": "RU-SMO",
+		"code": "UGRA",
+		"area": 6486,
+		"type": "FSC",
+		"number": "",
+		"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/UGRA.kml"
+	} , {
+		"name": "Наше Дело, ООО",
+		"region": "RU-SMO",
+		"code": "DELO",
+		"area": 15590,
+		"type": "PEFC",
+		"number": "",
+		"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/DELO.kml"
+	} , {
+		"name": "Вест-Терм, ООО",
+		"region": "RU-SMO",
+		"code": "VTER",
+		"area": 3490,
+		"type": "PEFC",
+		"number": "",
+		"kmlLink": "https://raw.githubusercontent.com/apex-group/apex-group.github.io/master/data/VTER.kml"
 	}
 ];
 
